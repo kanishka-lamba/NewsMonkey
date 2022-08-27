@@ -1,0 +1,32 @@
+NPM vs NPX
+
+It will help you to avoid NPM dependencies and versioning. Above all, you get to execute packages without having to install them.
+NPX comes bundled with NPM version 5.2+
+
+npx is a npm package runner (x probably stands for eXecute). The typical use is to download and run a package temporarily or for trials.
+
+create-react-app is an npm package that is expected to be run only once in a project's lifecycle. Hence, it is preferred to use npx to install and run it in a single step.
+
+Node js
+
+Open-source and cross-platform runtime environment for executing JavaScript code outside a browser. You need to remember that NodeJS is not a framework and it's not a programming language.
+
+Props and State
+
+Props are used to pass data, whereas state is for managing data. ... State data can be modified by its own component, but is private (cannot be accessed from outside) Props can only be passed from parent component to child (unidirectional flow) Modifying state should happen with the setState ( ) method.
+
+React Props is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one component to other components. It is similar to function arguments. Props are passed to the component in the same way as arguments passed in a function.
+
+State is a plain JavaScript object used by React to represent an information about the component's current situation. It's managed in the component (just like any variable declared in a function).
+
+JSX
+
+JSX stands for JavaScript XML. It is simply a syntax extension of JavaScript. It allows us to directly write HTML in React (within JavaScript code). ... Instead of separating the markup and logic in separated files, React uses components for this purpose.
+
+PropTypes
+Default Props
+
+React Hooks
+
+News API : 2dcfc177430a449fa3d636a33e7fb098
+postman
