@@ -1,3 +1,21 @@
+# NewsMonkey
+
+About the Project
+
+This React application will show the news about the world. This is better than old conventional newspapers as you can see news anytime and anywhere now. It also provide live updates and news related to different categories.
+
+# Softwares Used
+
+VSCode (Frontend)
+
+# Technologies Used
+
+React JS
+
+# Video of Complete Project
+
+https://www.screencast.com/users/KanishkaLamba/folders/Capture/media/452b6e97-e52c-4153-95a9-fccf90b19dac
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
